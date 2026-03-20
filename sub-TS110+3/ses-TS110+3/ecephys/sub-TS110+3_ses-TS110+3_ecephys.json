@@ -1,7 +1,7 @@
 {
     "InstitutionName": "Icahn School of Medicine at Mount Sinai",
     "PowerLineFrequency": "n/a",
-    "SamplingFrequency": "n/a",
+    "SamplingFrequency": -1.0,
     "SoftwareFilters": "n/a",
     "HardwareFilters": "n/a"
 }
